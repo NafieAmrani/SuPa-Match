@@ -24,8 +24,8 @@ pip install -r requirements.txt
 
 2. Install GeCo (code to create the Patch-Match & Surf-Patch integer linear programs)
 ```shell
-git clone TODO
-cd TODO
+git clone git@github.com:paul0noah/GeCo.git
+cd GeCo
 python setup.py install
 cd ..
 ```
