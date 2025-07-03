@@ -1,4 +1,4 @@
-# SuPa-Match: High-Resolution 3D Shape Matching with Global Optimality and Geometric Consistency
+# [SuPa-Match: High-Resolution 3D Shape Matching with Global Optimality and Geometric Consistency](https://diglib.eg.org/handle/10.1111/cgf70208)
 
 Official repository for the SGP 2025 paper: High-Resolution 3D Shape Matching with Global Optimality and Geometric Consistency by Nafie El Amrani, Paul Roetzer and Florian Bernard (University of Bonn & Lamarr Institute).
 
@@ -52,10 +52,13 @@ The implementation of DiffusionNet is based on the [official implementation](htt
 ## 🎓 Attribution
 ```
 @article{elamrani2025highres,
-  author = {El Amrani, Nafie and Roetzer, Paul and Bernard, Florian},
-  title = {High-Resolution 3D Shape Matching with Global Optimality and Geometric Consistency},
-  month = jun,
-  year = {2025}
+    journal = {Computer Graphics Forum},
+    title = {{High-Resolution 3D Shape Matching with Global Optimality and Geometric Consistency}},
+    author = {El Amrani, Nafie and Roetzer, Paul and Bernard, Florian},
+    year = {2025},
+    publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+    ISSN = {1467-8659},
+    DOI = {10.1111/cgf.70208}
 }
 ```
 
